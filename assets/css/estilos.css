@@ -16,8 +16,10 @@ body {
   color: #ffc107;
 }
 
-/* Mis trabajos */
-
+#Acerca-de-mi{
+  color:orangered;
+}
+  
 #Mis-trabajos .image-top {
   height: 250px;
   background-repeat: no-repeat;
